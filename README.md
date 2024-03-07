@@ -8,8 +8,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 </div>
 
+<!-- 
 ## Me
 <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dhdld"/></a>
+
+-->
 
 <!--
 **dhdld/dhdld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
