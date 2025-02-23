@@ -3,6 +3,7 @@
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
